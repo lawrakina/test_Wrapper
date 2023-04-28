@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "94529938683",
+    "project_id": "run-wrap",
+    "storage_bucket": "run-wrap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94529938683:android:fed25000220293b825bc5e",
+        "android_client_info": {
+          "package_name": "com.lawrapps.RunWrap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94529938683-45mmgsttlostu0r9stjbiucj0jojdk7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJT-21UOcyS3aMNu3wkAboJglSD1AoyTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94529938683-45mmgsttlostu0r9stjbiucj0jojdk7n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
